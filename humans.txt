@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Mark Lillicrap -- Full Stack Developer -- @CarettaDev
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    Node.Js, CSS3, HTML5, Normalize.css
