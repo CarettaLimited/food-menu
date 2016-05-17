@@ -5,7 +5,7 @@
  */
 
 var app = require('../ordr_app');
-var debug = require('debug')('food-menu:server');
+var debug = require('debug')('ordr-menu:server');
 var http = require('http');
 
 /**
