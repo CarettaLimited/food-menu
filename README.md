@@ -1,3 +1,3 @@
-# ordr-menu [![Build Status](https://jenkins.caretta.co.uk/buildStatus/icon?job=ordr-menu)](https://jenkins.caretta.co.uk/job/ordr-menu/)
+# ordr-menu [![Build Status](https://build.caretta.co.uk/buildStatus/icon?job=ordr-menu)](https://build.caretta.co.uk/job/ordr-menu/)
 
 https://ordr.mobi
