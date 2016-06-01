@@ -42,11 +42,9 @@ Further developments may include:
 
 Please see the following links for further information.
 
-[Menu Demo](https://ordr.mobi)
-
-[API Explorer](http://api.ordr.mobi/explorer/)
-
-[API GitHub Project](https://github.com/CarettaLimited/ordr-menu-api)
+- [Menu Demo](https://ordr.mobi)
+- [API Explorer](http://api.ordr.mobi/explorer/)
+- [API GitHub Project](https://github.com/CarettaLimited/ordr-menu-api)
 
 Further Documentation to follow.
 
