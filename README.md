@@ -14,13 +14,20 @@ This should allow me to scale up (if ever required!) and allow any device to int
 
 I plan to build the frontend using progressive enhancement as well as experiment with different technologies.
 
-Therefore it is planned that the system will be developed in stages as follows
+Therefore it is planned that the system will be developed in stages as follows:
+
 1. HTML / CSS only - To see if its possible to implement a usuable system with no javascript  <--- In Progress
+
 2. with OO JS - To add enhancements like AJAX and validations for better UX. No JQuery!
+
 3. with Angular
+
 4. with Angular & React
+
 5. With React & React Router
+
 6. with Web Components (Polymer?)
+
 
 I also plan to:
 - Follow Accessibility guidelines throughout. 
