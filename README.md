@@ -33,6 +33,7 @@ I also plan to:
 - Follow Accessibility guidelines throughout. 
 - Make it as lightweight and performant as possible 
 - Do some performance analysis at every stage.
+- Add event based webhooks for sending messages to third party systems when a certain event occurs
 
 
 Further developments may include:
